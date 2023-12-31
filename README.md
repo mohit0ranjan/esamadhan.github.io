@@ -7,7 +7,7 @@
 - **Brief Description:** 
   - This is the Latest App Release of the App
   
-![GitHub App in action](Logo.png)
+![GitHub App in action](/esamadhan.github.io/img01.png)
 > **CTA:** [Update Now](#)
 
 ---
