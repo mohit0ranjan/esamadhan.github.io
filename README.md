@@ -7,7 +7,7 @@
 - **Brief Description:** 
   - Briefly describe the most significant changes or features introduced in this release.
   
-![GitHub App in action](path_to_your_image.jpg)
+![GitHub App in action](path_to_home_image.jpg)
 > **CTA:** [Update Now](#)
 
 ---
@@ -15,8 +15,14 @@
 ## 🌟 Features
 - **Feature Title 1:** 
   - Description and benefits.
+  
+  ![Feature 1 Image](path_to_feature1_image.jpg)
+  
 - **Feature Title 2:** 
   - Description and benefits.
+  
+  ![Feature 2 Image](path_to_feature2_image.jpg)
+  
 - ... [Add other features]
 
 ---
@@ -40,6 +46,9 @@ Encountering issues or have queries? Reach out to our dedicated support team.
 ## 📜 Release Notes Archive
 - **[Version X.X.X](#):** [Release Date]
   - Highlights: Brief description of key changes.
+  
+  ![Version X.X.X](path_to_version_image.jpg)
+
 - **[Version X.X.X](#):** [Release Date]
   - ... [Follow the same format for each version]
 
