@@ -1,13 +1,13 @@
-# [GitHub App Name] Release Notes
+# Esamadhan App Release Notes
 
 ## 🏠 Home
 ### 📸 Latest Release Highlight
-- **Date:** [Release Date]
-- **Version:** [Version Number]
+- **Date:** 31-12-2023
+- **Version:** v.1
 - **Brief Description:** 
-  - Briefly describe the most significant changes or features introduced in this release.
+  - This is the Latest App Release of the App
   
-![GitHub App in action](path_to_home_image.jpg)
+![GitHub App in action](Logo.png)
 > **CTA:** [Update Now](#)
 
 ---
